@@ -6,5 +6,6 @@ int main(){
 	sum = num1 + num2;
 	printf("input numbers are %d and %d\n", num1, num2);
 	printf("sum is %d\n", sum);
+	printf("You're very awesome!!!\n");
 	return 0;
 }
